@@ -12,7 +12,6 @@ function soloNumeros(array) {
 
   // Tu código aca:
           return array.filter(a => Number.isInteger(a));
-
 }
 
 // No modifiques nada debajo de esta linea //
